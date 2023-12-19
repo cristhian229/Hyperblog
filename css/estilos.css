@@ -28,3 +28,16 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+#footer {
+    font-size: x-large;
+    background-color: pink;
+    color: white;
+    text-align: center;
+}
+#footer #pug {
+    border-radius: 20%;
+    width: 400px;
+}
+h2 {
+    font-size: medium;
+}
